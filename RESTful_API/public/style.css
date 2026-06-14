@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: crimson;
+    text-align: center;
+}
+.post{
+    background-color: pink;
+    margin: 2rem;
+    padding: 1rem;
+    border: 2px solid crimson;
+    border-radius: 10px;
+}
+.user{
+    font-style: italic;
+    margin-top: 0;
+}
+.content{
+    font-weight: normal;
+    margin-top: 0;
+}
+a{
+    margin: 0.5rem;
+    color: crimson;
+}
+button{
+    margin: 1rem 0.5rem;
+    background-color: crimson;
+    border: none;
+    height: 1.5rem;
+    width: 6rem;
+    color: white;
+    border-radius: 10px;
+}
+.new{
+    margin: 1rem 2rem;
+    background-color:crimson;
+    height: 2rem;
+    width: 10rem;
+}
+.new a{
+    text-decoration: none;
+    color: white;
+}
